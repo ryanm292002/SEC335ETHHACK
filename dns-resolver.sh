@@ -1,6 +1,5 @@
 #!/bin/bash 
 
-#error checking from user: seorphates on stackoverflow. Echo yes is there is argument, no if no argument is provided
 
 network_prefix=$1
 dns=$2
